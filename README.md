@@ -12,3 +12,25 @@ All content here is:
 - ✅ For **educational purposes only**
 - ✅ Based on **legal and authorized platforms**
 - ❌ **Not intended for illegal or unauthorized use**
+
+## 📖 Learning Goal
+
+This repository is aimed at:
+- Improving my **hands-on cybersecurity skills**
+- Building a **strong problem-solving mindset**
+- Maintaining a **clean and organized knowledge archive**
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning repository.  
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful:
+- ⭐ Star the repository
+- 💬 Share feedback or suggestions
+
